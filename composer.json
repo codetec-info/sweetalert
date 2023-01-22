@@ -1,9 +1,9 @@
 {
     "name": "softon/sweetalert",
-    "description": "Laravel 5 Package for SweetAlert2. Use this package to easily show sweetalert2 prompts in your laravel app.",
+    "description": "Laravel 5/6/7/8 Package for SweetAlert2. Use this package to easily show sweetalert2 prompts in your laravel app.",
     "license": "MIT",
     "keywords": [
-        "Laravel 5",
+        "Laravel 5/6/7/8",
         "SweetAlert2",
         "POPUP BOXES"
     ],
@@ -15,8 +15,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0",
-        "guzzlehttp/guzzle": "~5.0|~6.0"
+        "illuminate/support": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
+        "guzzlehttp/guzzle": "~5.0|~6.0|~7.0"
     },
     "autoload": {
         "psr-4": {
