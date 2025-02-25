@@ -3,7 +3,7 @@
     "description": "Laravel 5/6/7/8 Package for SweetAlert2. Use this package to easily show sweetalert2 prompts in your laravel app.",
     "license": "MIT",
     "keywords": [
-        "Laravel 5/6/7/8",
+        "Laravel 5/6/7/8/9/10",
         "SweetAlert2",
         "POPUP BOXES"
     ],
